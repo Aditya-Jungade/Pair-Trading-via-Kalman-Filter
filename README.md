@@ -1,7 +1,6 @@
 # Pairs Trading with Kalman Filter
 
-This project explores pairs trading using a dynamic, real-time hedge adjustment technique via the Kalman Filter. This project aims to help understand and implement pairs trading, an essential quantitative trading strategy, using Bayesian online training. This project is mentored by Nimay Shah and Devavrat Patni.
-
+This project explores pairs trading using a dynamic, real-time hedge adjustment technique via the Kalman Filter. This project aims to help understand and implement pairs trading, an essential quantitative trading strategy, using Bayesian online training. 
 ## Table of Contents
 1. [Introduction](#1-introduction)
 2. [Background](#2-background)
